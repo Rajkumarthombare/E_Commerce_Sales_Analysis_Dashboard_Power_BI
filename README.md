@@ -24,7 +24,7 @@ To build an interactive dashboard that helps stakeholders understand:
 
 📊 Dashboard Preview
 
-![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_Analysis_Dashboard_Power_BI/blob/main/Consumer.png
+![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_Analysis_Dashboard_Power_BI/blob/main/Consumer.png)
 ![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_Analysis_Dashboard_Power_BI/blob/main/Corporate.png)
 ![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_Analysis_Dashboard_Power_BI/blob/main/Home%20Office.png)
 
